@@ -2,7 +2,7 @@
 //  BirdViewController.swift
 //  Flaffy Bird
 //
-//  Created by Jintian Wang on 2020/7/10.
+//  Created by Jintian Wang on 2020/3/10.
 //  Copyright © 2020 Jintian Wang. All rights reserved.
 //
 
